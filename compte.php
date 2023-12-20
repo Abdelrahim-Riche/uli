@@ -11,7 +11,6 @@
         <div><a href="index.html"><img src="image/logo.png" alt="" class="logo_navbar"></a></div>
         <ul>
             <a href="shop.php"><li>Shop</li></a>
-            <a href="music.php"><li>Music</li></a>
             <a href="assos.php"><li>Assos</li></a>
             <a href="compte.php" class="active"><li>Compte</li></a>
         </ul>
